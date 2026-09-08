@@ -1,4 +1,4 @@
-# Search Agents Harness: Job Hunter + CC Multi-Agent Team
+# Search Agents Harness: Job Hunter + CC Multi-Agent Teams
 
 Production-style starter for a **specialized, proactive, personalized** multi-agent system:
 
